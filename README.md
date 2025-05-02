@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi developers 👋<br>I'm Maxence Persine, I'm 22 and i'm French 🇫🇷<br><br>🎓 I'm currently taking a professional title on Web development at higher school MyDigitalSchool<br>💻 I'm currently a developer at Ouikeep<br>❤️ I love writing code on everything and learn about new technology<br>📫 If you want to reach me : maxence.per.pro@gmail.com
+Hi developers 👋<br>I'm Maxence Persine, I'm 23 and i'm French 🇫🇷<br><br>🎓 I'm currently taking a professional title on Web development at higher school MyDigitalSchool<br>💻 I'm currently a developer at Ouikeep<br>❤️ I love writing code on everything and learn about new technology<br>📫 If you want to reach me : maxence.per.pro@gmail.com
 
 
 ## 🌐 Socials:
